@@ -1,6 +1,7 @@
 x=1
 while (x != 0) : #2단계
     print("구구단 몇단을 계산할까요?")
+    print("구구단은 정말 재미있어!!")
     x = int(input())
     if x == 0 :
         break
