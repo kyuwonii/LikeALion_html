@@ -1,0 +1,17 @@
+body {
+    background-color: #e2e2e2;
+}
+
+.title {
+    font-size: 2em;
+    color: #7831B8;
+}
+
+li{
+    list-style: none;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: none;
+}
